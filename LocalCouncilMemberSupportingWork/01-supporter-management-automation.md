@@ -23,7 +23,7 @@
 ![멀티모달 활용 프롬프트로 엑셀 파일 생성](images/02-multi-modal-prompt.gif)
 
 **작업예 03**
-[Copilot in Windows 활용 엑셀파일 생성](videos/SMC_Excel_Generation.mp4)
+[Copilot in Windows 활용 엑셀파일 생성](https://youtu.be/n0NATO6TF9w)
 
 ### 2. 후원명부를 고려해서 모집 폼(Form) 만들기
 위에서 생성한 엑셀 파일을 기반으로 후원회원 모집 폼을 만들어 보겠습니다. 이를 위해 'Microsoft Forms'를 활용하겠습니다.  
