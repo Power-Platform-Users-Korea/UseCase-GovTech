@@ -48,7 +48,9 @@
     When a new response is submitted to a form in 'Microsoft Forms' as a trigger of the flow, add the information to 'Microsoft Excel', and then send a welcome email to the applicant.
     ```    
     ![Power Automate 프롬프트](images/powerautomate-02-prompt.png)
-3. 한글로 프롬프트를 입력하면 잘 안될때도 있어서 위에 영어로 간단히 만들었던 프롬프트를 입력한 다음 '코파일럿(Copilot)'에게 나은 표현으로 수정해달라고 한 다음 그 프롬프트를 입력하고 자동화된 업무흐름을 만들어 보았습니다.
+3. 프롬프트를 입력하면 아래와 같이 자동화 업무를 생성해 줍니다.
+    ![Power Automate 자동화 업무 생성](images/powerautomate-03-automation-created.png)
+4. 한글로 프롬프트를 입력하면 잘 안될때도 있어서 위에 영어로 간단히 만들었던 프롬프트를 입력한 다음 '코파일럿(Copilot)'에게 나은 표현으로 수정해달라고 한 다음 그 프롬프트를 입력하고 자동화된 업무흐름을 만들어 보았습니다.
     ![Power Automate 자동화 업무 생성](images/powerautomate-03-run-a-prompt.gif)
-4. 생성된 자동화 업무 흐름을 각 단계별로 적절한 설정을 해주면 됩니다.  
+5. 생성된 자동화 업무 흐름을 각 단계별로 적절한 설정을 해주면 됩니다.  
     ![Power Automate 자동화 업무 생성](images/powerautomate-04-configure-the-flow.png)
