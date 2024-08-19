@@ -22,8 +22,8 @@
 위 참고할 자료인 '지방의회의원후원회 설립 가이드북-후원회원 모집'을 프롬프트 창에 업로드한 다음, 위 프롬프트를 복사해서 붙여넣으면 챗지피티가 해당 내용을 참고하여 엑셀 파일을 생성해 줍니다.  
 ![멀티모달 활용 프롬프트로 엑셀 파일 생성](images/02-multi-modal-prompt.gif)
 
-**작업예 03**
-[Copilot in Windows 활용 엑셀파일 생성](https://youtu.be/n0NATO6TF9w)
+**작업예 03(비디오)**
+[![Copilot in Windows 활용 엑셀파일 생성](images/window-copilot-excel-generation-video-cover.png)](https://youtu.be/n0NATO6TF9w)
 
 ### 2. 후원명부를 고려해서 모집 폼(Form) 만들기
 위에서 생성한 엑셀 파일을 기반으로 후원회원 모집 폼을 만들어 보겠습니다. 이를 위해 'Microsoft Forms'를 활용하겠습니다.  
