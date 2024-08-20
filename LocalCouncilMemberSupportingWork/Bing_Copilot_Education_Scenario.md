@@ -61,7 +61,7 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
 
 ### 단계 1: 기본 프롬프트
 "7박 8일 이탈리아 여행 일정을 짜줘."
-![image](/LocalCouncilMemberSupportingWork/videos/Honeycam 2024-08-20 02-26-47.gif)
+![image](/LocalCouncilMemberSupportingWork/videos/Honeycam-2024-08-20-02-26-47.gif)
 
 이 프롬프트의 문제점:
 - 너무 광범위하여 구체적인 정보가 부족합니다.
