@@ -5,7 +5,9 @@
 ### 코파일럿이란?
 
 코파일럿은 AI 기반의 '디지털 비서'로, Microsoft의 Bing Copilot은 인공지능 기술을 활용해 여러분의 다양한 작업을 돕는 혁신적인 도구입니다. 예를 들어, 문서 작성, 데이터 분석, 일정 관리, 그리고 복잡한 정보 검색 등을 자동화하여, 여러분이 더 중요한 일에 집중할 수 있도록 지원합니다. Bing Copilot은 Microsoft 365 애플리케이션에 통합되어 자연스러운 언어로의 상호작용을 통해 생산성을 극대화할 수 있는 도구입니다.
-![image](https://github.com/user-attachments/assets/31667144-a24a-43f6-9f6c-69a358128f45)
+![image](https://github.com/user-attachments/assets/64c3d7bf-a097-48a0-b2c1-51f9d0ea968d)
+
+
 
 
 ### Bing Copilot의 기능
@@ -34,7 +36,7 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
 
 ### 왜 스캐폴딩 프롬프트를 사용해야 하는가?
 스캐폴딩 프롬프트는 '발판'을 놓듯이 단계적으로 더 구체적인 정보를 요청하는 방식입니다. 이 방법을 사용하면 다음과 같은 이점이 있습니다:
-![image](https://github.com/user-attachments/assets/61132b63-5f0c-4995-8de2-4c33502e7b3b)
+![image](https://github.com/user-attachments/assets/31667144-a24a-43f6-9f6c-69a358128f45)
 
 1. 더 정확한 결과: 구체적인 요구사항을 제시하여 원하는 결과를 얻을 확률이 높아집니다.
 2. 단계적 개선: 결과물을 보면서 점진적으로 개선할 수 있습니다.
