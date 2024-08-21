@@ -5,7 +5,8 @@
 ### 코파일럿이란?
 
 코파일럿은 AI 기반의 '디지털 비서'로, Microsoft의 Bing Copilot은 인공지능 기술을 활용해 여러분의 다양한 작업을 돕는 혁신적인 도구입니다. 예를 들어, 문서 작성, 데이터 분석, 일정 관리, 그리고 복잡한 정보 검색 등을 자동화하여, 여러분이 더 중요한 일에 집중할 수 있도록 지원합니다. Bing Copilot은 Microsoft 365 애플리케이션에 통합되어 자연스러운 언어로의 상호작용을 통해 생산성을 극대화할 수 있는 도구입니다.
-![image](https://github.com/user-attachments/assets/64c3d7bf-a097-48a0-b2c1-51f9d0ea968d)
+![image](https://github.com/user-attachments/assets/31667144-a24a-43f6-9f6c-69a358128f45)
+
 
 ### Bing Copilot의 기능
 
