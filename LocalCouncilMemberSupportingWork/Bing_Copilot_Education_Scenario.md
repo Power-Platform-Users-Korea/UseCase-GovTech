@@ -79,7 +79,7 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
 3. 이동 수단 (기차 또는 비행기)
 4. 숙박 형태 (호텔 또는 에어비앤비)
 ```
-![image](/LocalCouncilMemberSupportingWork/videos/Honeycam 2024-08-20 02-33-44.gif)
+![image](/LocalCouncilMemberSupportingWork/videos/Honeycam-2024-08-20-02-33-44.gif)
 
 이 프롬프트의 개선점:
 - 구체적인 도시와 체류 기간을 명시했습니다.
@@ -107,7 +107,7 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
 
 일정은 날짜별로 구체적으로 작성해주고, 각 관광지의 입장료와 예약 필요 여부도 포함해줘. 또한, 현지 교통패스나 박물관 패스 등 비용 절감을 위한 팁도 추가해줘.
 ```
-![image](/LocalCouncilMemberSupportingWork/videos/Honeycam 2024-08-20 02-34-55.gif)
+![image](/LocalCouncilMemberSupportingWork/videos/Honeycam-2024-08-20-02-34-55.gif)
 
 이 프롬프트의 장점:
 - 매우 구체적인 요구사항을 제시하여 맞춤형 여행 계획을 받을 수 있습니다.
@@ -123,7 +123,7 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
 ### 단계 1: 기본 프롬프트
 "시정 연설문 작성해줘."
 
-![image](/LocalCouncilMemberSupportingWork/videos/Honeycam 2024-08-20 02-36-02.gif)
+![image](/LocalCouncilMemberSupportingWork/videos/Honeycam-2024-08-20-02-36-02.gif)
 이 프롬프트의 문제점:
 - 연설의 목적, 대상, 길이 등 중요한 정보가 없습니다.
 - 특정 지역이나 상황에 맞는 내용을 기대하기 어렵습니다.
@@ -144,12 +144,10 @@ Bing Copilot은 Microsoft의 최신 AI 기술을 기반으로 하며, 다음과 
    - 주거 환경 개선 사업
 4. 주민들에 대한 감사와 새해 희망 메시지 (100자 내외)
 
-![image](/LocalCouncilMemberSupportingWork/videos/Honeycam 2024-08-20 02-36-52.gif)
-
 전체 연설문은 5분 이내로 발표할 수 있는 분량으로 작성하고, 
 친근하면서도 신뢰감 있는 톤으로 작성해줘.
 ```
-
+![image](/LocalCouncilMemberSupportingWork/videos/Honeycam-2024-08-20-02-36-52.gif)
 이 프롬프트의 장점:
 - 연설문의 목적(신년 시정 연설)과 대상(강남구 주민)을 명확히 합니다.
 - 구체적인 내용 요소와 각 부분의 길이를 지정합니다.
